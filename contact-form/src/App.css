@@ -3,6 +3,12 @@
 
 body{
   font-family: 'Sometype Mono', monospace;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.heading h1{
+  font-weight: 800;
 }
 
 
