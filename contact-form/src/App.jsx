@@ -8,8 +8,12 @@ function App() {
   return (
     <>
      <Navbar/>
+
+     <main>
      <Contact/>
      <Form/>
+     </main>
+
     </>
   )
 }

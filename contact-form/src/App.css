@@ -11,4 +11,10 @@ body{
   font-weight: 800;
 }
 
+main{
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 72px);
+  
+}
 
